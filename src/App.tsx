@@ -1,5 +1,5 @@
 import "@mantine/core/styles.css";
-import { TextInput,Card,Image, MantineProvider,DataList, AppShellNavbar, AppShellMain } from "@mantine/core";
+import { TextInput,Card, MantineProvider,DataList,  AppShellMain } from "@mantine/core";
 import { AppShell } from "@mantine/core";
 import { theme } from "./theme.tsx";
 import { Center } from "@mantine/core";
